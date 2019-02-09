@@ -28,7 +28,7 @@ stage ('properties') {
 
 
 stage('git checkout') {
- git 'https://github.com/bhanuprakashbg/BankWebApp'
+ git 'https://github.com/manupanda/DevopsNew.git'
 }
 
 stage('Build & Compile') {    
